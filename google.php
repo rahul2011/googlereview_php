@@ -3,7 +3,7 @@
  *    google my business review fetch
  *    @category   Javascript
  *    @package    JSON
- *    @author     Rahul R [rahul.scifi@gmail.com]
+ *    @author     Rahul [info@goagoaseo.com]
  *    @license    http://www.opensource.org/licenses/bsd-license.php  BSD License
  *    @version    1.0
  */
